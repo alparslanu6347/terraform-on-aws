@@ -1,6 +1,6 @@
 # Terraform Configuration Language Syntax
 
-## Step-01: Introduction
+## Step-1: Introduction
 - Understand Terraform Language Basics
   - Understand Blocks
   - Understand Arguments, Attributes & Meta-Arguments
