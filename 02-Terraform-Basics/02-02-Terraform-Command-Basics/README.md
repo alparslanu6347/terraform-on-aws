@@ -1,6 +1,6 @@
 # Terraform Command Basics
 
-## Step-01: Introduction
+## Step-1: Introduction
 - Understand basic Terraform Commands
   - terraform init
   - terraform validate
